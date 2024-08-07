@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishal Shivkumar</h1>
-<h3 align="center">WEB DEVELOPER | CSE STUDENT @ PES UNIVERSITY BANGALORE</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsk07&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsk07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalsk07" alt="vishalsk07" /></a> </p>
+<h3 align="center">WEB DEVELOPER |FINAL YEAR CSE STUDENT @ PES UNIVERSITY BANGALORE</h3>
 
 - 🌱 I’m currently studying at **PES UNIVERSITY , BANGALORE**
+
+- 💬 Ask me about **TECH , AI**
 
 - 📫 How to reach me **vishalshivkumar99@gmail.com**
 
